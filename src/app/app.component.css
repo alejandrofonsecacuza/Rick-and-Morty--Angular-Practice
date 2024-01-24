@@ -1,0 +1,9 @@
+
+.container{
+    padding: 40px;
+    background-color: white;
+    border: 10px solid whitesmoke;
+    background-color: azure;
+    display: flex;
+    flex-wrap: wrap;
+}
